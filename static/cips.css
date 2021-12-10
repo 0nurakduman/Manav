@@ -1,0 +1,331 @@
+/*-------------------------------------------------------*/
+/* Cips Menüsü */
+/*-------------------------------------------------------*/
+/* Butonlar */
+/*-------------------------------------------------------*/
+.doritos1 button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.doritos1 button:hover{
+    background:#ffffff;
+}
+
+.doritos1 button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.doritos2 button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.doritos2 button:hover{
+    background:#ffffff;
+}
+
+.doritos2 button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.lays1 button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.lays1 button:hover{
+    background:#ffffff;
+}
+
+.lays1 button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.lays2 button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.lays2 button:hover{
+    background:#ffffff;
+}
+
+.lays2 button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.ruffles1 button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.ruffles1 button:hover{
+    background:#ffffff;
+}
+
+.ruffles1 button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.ruffles2 button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.ruffles2 button:hover{
+    background:#ffffff;
+}
+
+.ruffles2 button{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+/*-------------------------------------------------------*/
+.pringles1 button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.pringles1 button:hover{
+    background:#ffffff;
+}
+
+.pringles1 button{
+    margin-top: 10px;
+    margin-left: 70px;
+}
+/*-------------------------------------------------------*/
+.pringles2 button{
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+    font-weight: bold;
+    color:#000000;
+    background:#E95639;
+    border: solid 2px #000000;
+    cursor: pointer;
+    outline: none;
+    border-radius: 5px;
+    transition:.5s;
+}
+
+.pringles2 button:hover{
+    background:#ffffff;
+}
+
+.pringles2 button{
+    margin-top: 10px;
+    margin-left: 70px;
+}
+/*-------------------------------------------------------*/
+/* Yazılar */
+/*-------------------------------------------------------*/
+div.doritos1 h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.doritos2 h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.lays1 h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+/*-------------------------------------------------------*/
+div.lays2 h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.ruffles1 h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.ruffles2 h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.pringles1 h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+div.pringles2 h3{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    width: 100x;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+/*-------------------------------------------------------*/
+/* Fotoğraflar */
+/*-------------------------------------------------------*/
+div.doritos1 {
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 40px;  
+}
+/*-------------------------------------------------------*/
+div.doritos2 {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;  
+}
+/*-------------------------------------------------------*/
+div.lays1 {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px;
+    
+}
+/*-------------------------------------------------------*/
+div.lays2 {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 40px; 
+}
+/*-------------------------------------------------------*/
+div.ruffles1 {
+    display: inline-block;
+    margin-left: 65px;
+    margin-top: 85px;  
+}
+/*-------------------------------------------------------*/
+div.ruffles2 {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 85px;
+    
+}
+/*-------------------------------------------------------*/
+div.pringles1 {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 85px;    
+}
+/*-------------------------------------------------------*/
+div.pringles2 {
+    display: inline-block;
+    margin-left: 175px;
+    margin-top: 85px;    
+}
+/*-------------------------------------------------------*/
